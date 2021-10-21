@@ -1,6 +1,7 @@
 ﻿今日はGitHubを使ってみましょう！
 適当に書く
-dev3
-try to close #3
+dev1
+dev2
+dev3 try to close #3
 dev3 hahahaha
 dev3 prepare revert
