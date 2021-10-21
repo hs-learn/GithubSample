@@ -1,3 +1,4 @@
 ﻿今日はGitHubを使ってみましょう！
 適当に書く
 dev3
+try to close #3
